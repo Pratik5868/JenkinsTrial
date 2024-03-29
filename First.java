@@ -6,6 +6,7 @@ public class First{
         System.out.println("Output from java program");
         System.out.println(new Date());
         System.out.println("Let's finish the game");
+        System.out.println(Student.getStudentFeedBack());
     }
     
 }
